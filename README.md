@@ -27,4 +27,5 @@ mov r1,1
        add cnt cnt 1
    .exit:
        exit
-   mov cnt,0    
+   mov cnt,0  
+   
